@@ -1,4 +1,4 @@
-## Shuang Liu
+## About
 
-PhD student @ UC San Diego
+I am a PhD student at University of California, San Diego.
 
