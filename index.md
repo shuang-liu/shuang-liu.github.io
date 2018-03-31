@@ -10,7 +10,7 @@ Shuang Liu, Olivier Bousquet, Kamalika Chaudhuri
 
 ## Awards
 
-2015 Google Excellence Scholarship
+2015 Google Excellence Scholarship    
 2011 - 2013 ACM International Collegiate Programming Contest Asia Regional Gold Medal
 
 
