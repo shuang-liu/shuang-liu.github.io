@@ -4,8 +4,8 @@ I am a second-year PhD student in the Department of Computer Science and Enginee
 
 ### Publications
 [Approximation and Convergence Properties of
-Generative Adversarial Learning](https://arxiv.org/abs/1705.08991)</br>
-Shuang Liu, Olivier Bousquet, Kamalika Chaudhuri</br>
+Generative Adversarial Learning](https://arxiv.org/abs/1705.08991)    
+Shuang Liu, Olivier Bousquet, Kamalika Chaudhuri   
 NIPS 2017 (spotlight presentation)
 
 
