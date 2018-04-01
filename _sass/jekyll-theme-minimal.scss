@@ -105,7 +105,7 @@ img {
 }
 
 header {
-  width:180px;
+  width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -118,7 +118,7 @@ header ul {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:180px;
+  width:270px;
 }
 
 header li {
@@ -189,7 +189,7 @@ hr {
 }
 
 footer {
-  width:180px;
+  width:270px;
   float:left;
   position:fixed;
   bottom:50px;
@@ -249,7 +249,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 600px) {
   body {
     padding:15px;
   }
