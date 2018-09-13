@@ -13,7 +13,7 @@ Shuang Liu, Olivier Bousquet, Kamalika Chaudhuri
 ### Manuscripts
 * [The Inductive Bias of Restricted f-GANs](https://arxiv.org/abs/1809.04542)  
 Shuang Liu, Kamalika Chaudhuri
-* [Regret vs. Communication: Distributed Stochastic Multi-Armed Bandits and Beyond](https://arxiv.org/pdf/1504.03509.pdf)    
+* [Regret vs. Communication: Distributed Stochastic Multi-Armed Bandits and Beyond](https://arxiv.org/abs/1504.03509)    
 Shuang Liu, Cheng Chen, Zhihua Zhang   
 
 
