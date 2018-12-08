@@ -1,6 +1,6 @@
 ### About
 
-I am a second-year PhD student in the Department of Computer Science and Engineering (CSE) at University of California, San Diego (UCSD). I am currently working with Professor [Hao Su](http://cseweb.ucsd.edu/~haosu/) on theory and applications of machine learning. I hold a bachelor's degree in Computer Science from Shanghai Jiao Tong University.
+I am a third-year PhD student in the Department of Computer Science and Engineering (CSE) at University of California, San Diego (UCSD). I am currently working with Professor [Hao Su](http://cseweb.ucsd.edu/~haosu/) on theory and applications of machine learning. I hold a bachelor's degree in Computer Science from Shanghai Jiao Tong University.
 
 My CV can be found [here](https://shuang-liu.github.io/cv.pdf).
 
