@@ -2,7 +2,7 @@
 
 I am a third-year PhD student in the Department of Computer Science and Engineering (CSE) at University of California, San Diego (UCSD). I am currently working with Professor [Hao Su](http://cseweb.ucsd.edu/~haosu/) on theory and applications of machine learning. I hold a bachelor's degree in Computer Science from Shanghai Jiao Tong University.
 
-My CV can be found [here](https://shuang-liu.github.io/cv.pdf).
+My CV can be found [here](https://shuang-liu.github.io/CV.pdf).
 
 ### Publications
 * [Approximation and Convergence Properties of
@@ -19,8 +19,8 @@ Shuang Liu, Cheng Chen, Zhihua Zhang
 
 ### Awards
 
-* 2018 Google PhD Fellowship (39 recipients from North America, Europe and the Middle East)
-* 2015 Google Excellence Scholarship (58 recipients from China)
+* [2018 Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) ([39 recipients from North America, Europe and the Middle East](https://ai.google/research/outreach/phd-fellowship/recipients/?category=2018))
+* [2015 Google Excellence Scholarship](https://www.google.cn/intl/en/university/collaboration.html) (58 recipients from China)
 * 2011 - 2013 ACM International Collegiate Programming Contest Asia Gold Medal
 
 
