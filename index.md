@@ -21,7 +21,7 @@ Shuang Liu, Cheng Chen, Zhihua Zhang
 
 * [2018 Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) ([39 recipients from North America, Europe and the Middle East](https://ai.google/research/outreach/phd-fellowship/recipients/?category=2018))
 * [2015 Google Excellence Scholarship](https://www.google.cn/intl/en/university/collaboration.html) (58 recipients from China)
-* 2011 - 2013 ACM International Collegiate Programming Contest Asia Gold Medal
+* [2011 - 2013 ACM International Collegiate Programming Contest Asia](https://icpc.baylor.edu/regionals/results), Gold Medal
 
 
 
