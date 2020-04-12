@@ -2,7 +2,7 @@
 
 I am a fourth-year PhD student in the Department of Computer Science and Engineering (CSE) at University of California, San Diego (UCSD). I am currently working with Professor [Hao Su](http://cseweb.ucsd.edu/~haosu/) on theory and applications of machine learning. I hold a bachelor's degree in Computer Science from Shanghai Jiao Tong University.
 
-[CV](https://shuang-liu.github.io/CV.pdf) &#124; [Google Scholar](https://scholar.google.com/citations?user=01je3ewAAAAJ)
+[CV](https://shuang-liu.github.io/CV.pdf) &#124; [Google Scholar](https://scholar.google.com/citations?user=01je3ewAAAAJ) &#124; [Github](https://github.com/shuang-liu)
 
 ### Publications
 * [Approximation and Convergence Properties of
