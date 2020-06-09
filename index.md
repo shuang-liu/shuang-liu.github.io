@@ -11,7 +11,7 @@ Shuang Liu, Olivier Bousquet, Kamalika Chaudhuri
 [NIPS 2017](https://papers.nips.cc/paper/7138-approximation-and-convergence-properties-of-generative-adversarial-learning) ([spotlight presentation](https://nips.cc/Conferences/2017/Schedule?showEvent=10072))
 
 ### Manuscripts
-* [Regret Bounds for Discounted MDPs](http://arxiv.org/abs/2002.05138)  
+* [γ-Regret for Non-Episodic Reinforcement Learning](http://arxiv.org/abs/2002.05138)  
 Shuang Liu, Hao Su
 * [The Inductive Bias of Restricted f-GANs](https://arxiv.org/abs/1809.04542)  
 Shuang Liu, Kamalika Chaudhuri
