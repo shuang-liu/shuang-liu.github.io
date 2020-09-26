@@ -9,7 +9,6 @@ I am a fifth-year PhD student in the Department of Computer Science and Engineer
 Generative Adversarial Learning](https://arxiv.org/abs/1705.08991)    
 Shuang Liu, Olivier Bousquet, Kamalika Chaudhuri   
 [NeurIPS 2017](https://papers.nips.cc/paper/7138-approximation-and-convergence-properties-of-generative-adversarial-learning) ([spotlight presentation](https://nips.cc/Conferences/2017/Schedule?showEvent=10072))
-
 * [Multi-task Batch Reinforcement Learning with Metric Learning]()  
 Jiachen Li, Quan Vuong, Shuang Liu, Minghua Liu, Kamil Ciosek, Henrik Christensen, Hao Su  
 [NeurIPS 2020]()
