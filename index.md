@@ -14,6 +14,8 @@ Jiachen Li, Quan Vuong, Shuang Liu, Minghua Liu, Kamil Ciosek, Henrik Christense
 [NeurIPS 2020]()
 
 ### Manuscripts
+* [γ -Regret for Non-Episodic Reinforcement Learning](https://arxiv.org/abs/2002.05138)  
+Shuang Liu, Hao Su
 * [The Inductive Bias of Restricted f-GANs](https://arxiv.org/abs/1809.04542)  
 Shuang Liu, Kamalika Chaudhuri
 * [Regret vs. Communication: Distributed Stochastic Multi-Armed Bandits and Beyond](https://arxiv.org/abs/1504.03509)    
