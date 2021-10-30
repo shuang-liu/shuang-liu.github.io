@@ -1,8 +1,8 @@
 ### About
 
-I am a fifth-year PhD student in the Department of Computer Science and Engineering (CSE) at University of California, San Diego (UCSD). I am currently working with Professor [Hao Su](http://cseweb.ucsd.edu/~haosu/) on theory and applications of machine learning. I hold a bachelor's degree in Computer Science from Shanghai Jiao Tong University.
+I am a sixth PhD candidate in the Department of Computer Science and Engineering (CSE) at University of California, San Diego (UCSD). I am currently working with Professor [Hao Su](http://cseweb.ucsd.edu/~haosu/) on theory and applications of machine learning. I hold a bachelor's degree in Computer Science from Shanghai Jiao Tong University (ACM Class).
 
-[CV](https://shuang-liu.github.io/CV.pdf) &#124; [Google Scholar](https://scholar.google.com/citations?user=01je3ewAAAAJ) &#124; [Github](https://github.com/shuang-liu)
+[CV](https://shuang-liu.github.io/CV.pdf) &#124; [Google Scholar](https://scholar.google.com/citations?user=01je3ewAAAAJ)
 
 ### Publications
 * [Approximation and Convergence Properties of
@@ -14,19 +14,12 @@ Jiachen Li, Quan Vuong, Shuang Liu, Minghua Liu, Kamil Ciosek, Henrik Christense
 [NeurIPS 2020]()
 
 ### Manuscripts
-* [γ-Regret for Non-Episodic Reinforcement Learning](https://arxiv.org/abs/2002.05138)  
+* [Regret Bounds for Discounted MDPs](https://arxiv.org/abs/2002.05138)  
 Shuang Liu, Hao Su
 * [The Inductive Bias of Restricted f-GANs](https://arxiv.org/abs/1809.04542)  
 Shuang Liu, Kamalika Chaudhuri
 * [Regret vs. Communication: Distributed Stochastic Multi-Armed Bandits and Beyond](https://arxiv.org/abs/1504.03509)    
-Shuang Liu, Cheng Chen, Zhihua Zhang   
-
-
-### Awards
-
-* [2018 Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) ([39 recipients from North America, Europe and the Middle East](https://ai.google/research/outreach/phd-fellowship/recipients/?category=2018))
-* [2015 Google Excellence Scholarship](https://www.google.cn/intl/en/university/collaboration.html) (58 recipients from China)
-* [2011-2013 ACM International Collegiate Programming Contest Asia](https://icpc.baylor.edu/regionals/results), Gold Medal
+Shuang Liu, Cheng Chen, Zhihua Zhang
 
 
 
