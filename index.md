@@ -1,5 +1,5 @@
 ### About
-[CV](https://shuang-liu.github.io/CV.pdf) &#124; [Google Scholar](https://scholar.google.com/citations?user=01je3ewAAAAJ)
+[Resume](https://shuang-liu.github.io/resume.pdf) &#124; [Google Scholar](https://scholar.google.com/citations?user=01je3ewAAAAJ)
 
 ### Publications
 * [Improving Policy Optimization with Generalist-Specialist Learning](https://arxiv.org/abs/2206.12984)  
